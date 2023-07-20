@@ -1,7 +1,6 @@
 ## Oi, eu sou Emmanuella Letícia 👋
 
-- 🔭 I’m currently working on: Beginner Developer 
-- 🌱 I’m currently learning: Java Web development 
+- 🔭 I’m currently working on: Beginner UX/UI Designer  
 - 💬 Ask me about: Criminal Cases, Serial Killers 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Friends Fan, The Office Fan... 
